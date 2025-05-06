@@ -1,0 +1,41 @@
+.section{
+    display: flex;
+    height: 90vh;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: row;
+    margin-left: 3%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.content h3 {
+    color: RGB(0, 0, 0);
+    font-size: 2vw;
+    padding: 5%;
+    padding-top: 0;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 3%;
+
+}
+.content p {
+    color: RGB(0, 0, 0);
+    font-size: 1.2vw;
+    padding: 5%;
+    padding-top: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+}
+
+.img{
+    width: 40%;
+    height: 60%;
+    background-color: black;
+}

@@ -1,0 +1,48 @@
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:40vh;
+    position:relative;
+    margin-top: 5vh;
+    margin-left: 5vw;
+}
+
+.map-responsive iframe{
+
+    height:100%;
+    width:90%;
+    position:absolute;
+
+}
+
+.map-container {
+   margin-bottom: 10vh;
+}
+
+.text {
+    font-size: 1vw;
+    margin-left: 5vw;
+}
+
+.titleFAQ{
+    font-size: 2vw;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+    font-weight: 300;
+    margin-left: 5vw;
+   
+}

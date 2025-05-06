@@ -1,0 +1,42 @@
+.CTAHome1{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start;   
+
+}
+.box-cta{
+    height: 80%;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 5%;
+}
+
+.p1{
+    font-size: 2vw;
+    color: #000;
+    text-align: start;
+    margin-top: 15vh;
+    margin-bottom: 1vh;
+    font-family: 'Lora', serif;
+}
+
+.p2{
+    font-size: 1.5vw;
+    color: #000;
+    text-align: start;
+    margin-bottom: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.p3 {
+    font-size: 2vw;
+    font-family: 'Lora', serif;
+    font-weight: 300;
+}
+

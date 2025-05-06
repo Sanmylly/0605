@@ -1,0 +1,41 @@
+.inicio{
+    display: flex;
+    height: 90vh;
+    width: screen;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: row;
+}
+
+.features{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.features h3 {
+    color: RGB(0, 0, 0);
+    font-size: 2vw;
+    padding: 5%;
+    padding-top: 0;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 3%;
+}
+
+.features p {
+    color: RGB(0, 0, 0);
+    font-size: 1.2vw;
+    padding: 5%;
+    padding-top: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+}
+
+.box{
+    width: 40%;
+    height: 60%;
+    background-color: black;
+}

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{   
+    font-size: 62.5%;
+    --marmore: #F8F8F8 ;
+    --bege: #D5C4B0;
+    --background-dark:#0e0d0df6;
+    --preto-fosco: #2C2C2C;
+    --dourado: #f3d9a4;
+
+}
+
+body {
+    background-color: var(--marmore);
+    color: var(--preto-fosco);
+    width: device-width;
+    height: device-height;
+}
