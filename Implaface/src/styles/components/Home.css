@@ -1,9 +1,9 @@
 .inicio{
     display: flex;
     height: 90vh;
-    width: screen;
-    justify-content: center; 
+    width: 100%;
     align-items: center; 
+    justify-content: space-evenly;
     flex-direction: row;
 }
 
@@ -32,10 +32,4 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 
-}
-
-.box{
-    width: 40%;
-    height: 60%;
-    background-color: black;
 }

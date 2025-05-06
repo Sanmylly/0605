@@ -5,7 +5,7 @@ function Contact (){
             <h3 className='titleFAQ'>Fale Conosco</h3>
             <div className="contact">
                 <p className='text'>Contato </p>
-                <p className='text'>Telefone: (11) 9999-9999</p>
+                <p className='text'>Telefone: (81) 3719-6559</p>
                 <p className='text'>Email: contato@implaface.com</p>
             </div>
             <div className="map-container">
@@ -18,7 +18,7 @@ width="10vw" height="4vh" allowFullScreen={true} referrerPolicy="no-referrer-whe
             </div>
             <div className="contact">
                 <p className='text'>Contato </p>
-                <p className='text'>Telefone: (11) 9999-9999</p>
+                <p className='text'>Telefone: (11)93080-8280</p>
                 <p className='text'>Email: contato@implaface.com</p>
             </div>
             <div  className="map-container">
