@@ -2,8 +2,8 @@
 import { SiYoutube } from "react-icons/si";
 import { SiFacebook } from "react-icons/si";
 import {SiInstagram }from "react-icons/si";
-import '../styles/components/Footer.css';
-import Logo from '../assets/LogoBranca.svg';
+import './styles/components/Footer.css';
+import Logo from './assets/LogoBranca.svg';
 
 
 function Footer() {

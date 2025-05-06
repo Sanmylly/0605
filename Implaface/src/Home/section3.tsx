@@ -1,4 +1,4 @@
-import '../../styles/components/s3.css';
+import '../styles/components/s3.css';
 
 function Section3() {
     return ( 

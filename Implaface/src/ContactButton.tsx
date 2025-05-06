@@ -1,4 +1,4 @@
-import '../styles/components/Buttons.css';
+import './styles/components/Buttons.css';
 
 const ContactButton = () => {
   return (

@@ -1,4 +1,4 @@
-import '../../styles/components/CAD.css';
+import '../styles/components/CAD.css';
 
 function CAD() {
     return (

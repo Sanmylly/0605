@@ -1,4 +1,4 @@
-import '../../styles/components/CTAHome.css';
+import '../styles/components/CTAHome.css';
 import ContactButton from '../ContactButton';
 
 function CTAHome1() {
